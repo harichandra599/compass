@@ -6,6 +6,7 @@
         "Post": "Post 1 ",
         "Type": "Photo",
         "Status": "Failed"
+        "Status2": "pass updated in github remote"  
     },
     {
         "Date  number": "Dec 11, 2021 04:05 PM",
